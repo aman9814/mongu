@@ -1,2 +1,0 @@
-# mongu
-learn git
